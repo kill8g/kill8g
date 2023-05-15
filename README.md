@@ -4,7 +4,7 @@
   <samp>
     😆 Hey! Welcome to my profile
     <br />
-    <br />&#x732B; Take a look at my stats  🌱
+    <br />🌱 Take a look at my stats  🌱
     <br />
     <br />
   </samp>
