@@ -22,3 +22,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=deploy-mogno)](https://github.com/kill8g/deploy-mogno)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=mocklua)](https://github.com/kill8g/mocklua)
