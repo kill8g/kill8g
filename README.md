@@ -18,3 +18,7 @@
 
 <!--https://github.com/anuraghazra/github-readme-stats--> 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=lua-tablelib)](https://github.com/kill8g/lua-tablelib)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=deploy-mogno)](https://github.com/kill8g/deploy-mogno)
+
