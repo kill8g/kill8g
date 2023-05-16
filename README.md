@@ -19,4 +19,4 @@
 <!-- https://github.com/anuraghazra/github-readme-stats --> 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=lua-tablelib&show_owner=true)](https://github.com/kill8g/lua-tablelib) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=deploy-mogno&show_owner=true)](https://github.com/kill8g/deploy-mogno)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=mocklua&show_owner=true)](https://github.com/kill8g/mocklua)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=mocklua&show_owner=true)](https://github.com/kill8g/mocklua) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=kill8g.github.io)](https://github.com/kill8g)
