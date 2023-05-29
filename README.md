@@ -10,7 +10,7 @@
   </samp>
 
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kill8g&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&&hide=prs,contribs&count_private=true&hide_rank=true" alt="kill8g's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kill8g&layout=compact&theme=buefy&hide_border=true&hide=javascript,html,css" /> </a> | 
+| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kill8g&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&&hide=prs&count_private=true&hide_rank=true" alt="kill8g's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kill8g&layout=compact&theme=buefy&hide_border=true&hide=javascript,html,css" /> </a> | 
 | ------------- | ------------- |
 
 </p>
