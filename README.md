@@ -24,6 +24,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=httpclient&show_owner=true)](https://github.com/kill8g/httpclient) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=memory_pool&show_owner=true)](https://github.com/kill8g/memory_pool)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=mocklua&show_owner=true)](https://github.com/kill8g/mocklua) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=aoi&show_owner=true)](https://github.com/kill8g/aoi) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=mocklua&show_owner=true)](https://github.com/kill8g/mocklua) 
 
 
