@@ -25,7 +25,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=httpclient&show_owner=true)](https://github.com/kill8g/httpclient) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=memory_pool&show_owner=true)](https://github.com/kill8g/memory_pool)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=kill8g.github.io)](https://github.com/kill8g/kill8g.github.io) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=excel-table-export-tool&show_owner=true)](https://github.com/kill8g/excel-table-export-tool) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=kill8g.github.io)](https://github.com/kill8g/kill8g.github.io) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=excel-export-tool&show_owner=true)](https://github.com/kill8g/excel-export-tool) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kill8g&repo=mocklua&show_owner=true)](https://github.com/kill8g/mocklua) 
 
